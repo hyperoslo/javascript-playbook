@@ -1,3 +1,3 @@
-# angular-playbook
+# javascript-playbook
 
-A place to define our conventions for working in AngularJS projects
+A place to define our conventions for working with JavaScript.
